@@ -95,7 +95,7 @@ export default styled.button<Partial<Props>>(
   ({ size = Size.medium, compact = false }) =>
     ({
       small: {
-        height: 28,
+        height: 30,
         padding: '0 16px',
         fontSize: fontSize.smaller,
         ...(compact === true && { padding: '0 6px' }),
