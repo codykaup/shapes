@@ -10,7 +10,7 @@ export const Appearances = (args, { loaded: { default: Button } }) => (
   <Grid cols={3}>
     <Button appearance="primary">Primary</Button>
     <Button appearance="primary" outline>
-      Primary outline blah
+      Primary outline blah2
     </Button>
     <Button appearance="primary" disabled>
       Primary disabled
