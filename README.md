@@ -18,3 +18,4 @@ Notable features:
 - **Single-story hoisting**: The Welcome story is hoisted to component level in the sidebar.
 
 blah
+blah
